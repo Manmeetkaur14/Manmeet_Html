@@ -1,0 +1,94 @@
+body{
+    font: size 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    margin: 11px 12px;
+    padding: 22px 22px;
+    line-height: 1.8em;
+    color: #0b0707;
+}
+.pimg1 {
+    background-image: url(https://images.unsplash.com/photo-1676077087620-4ad7eb632b05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    min-height: 200%;
+    width: 609px 475px;
+    height: 600px;
+    padding: 133px;
+    margin: 36px;
+}
+.pimg2 {
+    background-image: url(https://plus.unsplash.com/premium_photo-1661292110116-1bbee3fd4eae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    position: relative;
+    min-height: 200%;
+    width: 609px 475px;
+    height: 600px;
+    padding: 133px;
+    margin: 36px;
+}
+.pimg3 {
+    background-image: url(https://images.unsplash.com/photo-1541855394405-6bef26496257?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+     background-position: center;
+    min-height: 200%;
+    width: 609px 475px;
+    height: 600px;
+    padding: 133px;
+    margin: 36px;
+}
+.pimg4 {
+    background-image: url(https://media.istockphoto.com/id/535499574/photo/el-yunque-morning-light.jpg?s=2048x2048&w=is&k=20&c=5JR33xOy1UwFbmMYaEBeIms487oimYFoY4KCjp71G2Q=);
+    background-attachment: fixed;
+    position: relative;
+    min-height: 200%;
+    width: 609px 475px;
+    height: 600px;
+    padding: 133px;
+    margin: 36px;
+}
+
+.textbg{
+    font-size:65px;
+    font: bold;
+    background-color:grey;
+    color: #fff;
+    align-items: center;
+    padding: 10px 100px;
+    margin: 118px 103px;
+    
+}
+.textbg1{
+    font-size:65px;
+    font: bold;
+    background-color:transparent;
+    color: #fff;
+    padding: 7px 80px;
+    margin: 8px 23px;
+
+}
+.lighter1{
+    text-align: center;
+    background-color: #282e34;
+    color: #ddd;
+}
+.lighter2{
+    text-align: center;
+    background-color:#f4f4f4;
+    color: #666;
+}
+.lighter3{
+    text-align: center;
+    background-color: #282e34;
+    color: #ddd;
+}
+.lighter4{
+    text-align: center;
+}
